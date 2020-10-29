@@ -1,5 +1,7 @@
 # covid-attestation-bookmark
-Permet de remplir l'attestation de déplacement Covid / Confinement avec un marque-page navigateur
+Remplir l'attestation pour les feignants 
+
+Permet de remplir l'attestation de déplacement Covid / Confinement, pour les feignants, avec un marque-page navigateur
 
 Pour utiliser le bookmark dans votre navigateur, 
 - vous créez un favori ( Ctrl+D généralement) , peu importe la page
