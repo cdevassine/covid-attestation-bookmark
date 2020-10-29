@@ -9,7 +9,7 @@ var data = {
 	"city" : "Ma Ville", /* ou la votre */
 	"zipcode" : "12345", /* ou le votre */
 	"datesortie" : new Date(), /* ou une chaine "jj/mm/AAAA" */
-	"heuresortie" : new Date(), /* ou une chaine "jj/mm/AAAA" */
+	"heuresortie" : new Date(), /* ou une chaine "hh:mm" */
 	"field-reason" : ["travail", "achats"] /* aussi possible .. "sante", "famille", "handicap", "sport_animaux", "convocation", "missions", "enfants" */
 };
 
