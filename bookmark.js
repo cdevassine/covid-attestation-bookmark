@@ -1,4 +1,4 @@
-(function(){
+javascript:(function(){
 
 var data = {
 	"firstname" : "Jean", // ou le votre
