@@ -1,4 +1,4 @@
-# covid-french-attestation-filler
+# covid-attestation-bookmark
 Permet de remplir l'attestation de déplacement Covid / Confinement avec un marque-page navigateur
 
 Pour utiliser le bookmark dans votre navigateur, 
